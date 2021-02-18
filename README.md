@@ -9,6 +9,7 @@
 - Farklı HTML ve CSS kaynaklarını araştırarak linkleri ekleyiniz.
 
   :dart: the best way to learn [css selectors](https://flukeout.github.io/)
+  
   :dart: [htmlDoctor](http://html5doctor.com/)
   
 - Freecodecamp'teki HTML5 eğitimine başlayınız.
