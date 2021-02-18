@@ -4,6 +4,8 @@
 
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
 
+  :dart: please click here [Fashion Drug](https://poghosyantatevik.github.io/my-portfolio-jekyll/)
+
 - Farklı HTML ve CSS kaynaklarını araştırarak linkleri ekleyiniz.
 
 - Freecodecamp'teki HTML5 eğitimine başlayınız.
